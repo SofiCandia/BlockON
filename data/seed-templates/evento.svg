@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img">
+  <rect id="slot-bg" data-slot="bg" data-color-role="background" width="1080" height="1080" fill="#18264A"/>
+  <path id="slot-color-primary" data-slot="color-primary" data-color-role="primary" d="M0 0h1080v310H0z" fill="#F05B5B"/>
+  <circle id="slot-color-secondary" data-slot="color-secondary" data-color-role="secondary" cx="840" cy="700" r="245" fill="#FFC857"/>
+  <path id="slot-color-accent" data-slot="color-accent" data-color-role="accent" d="M105 720h430v20H105z" fill="#5BC0BE"/>
+  <image id="slot-logo" data-slot="logo" x="105" y="70" width="205" height="130" data-margin="10"/>
+  <image id="slot-image" data-slot="image" x="640" y="350" width="330" height="265" data-margin="14"/>
+  <text id="slot-occasion" data-slot="occasion" x="105" y="250" data-width="465" data-height="60" data-font-size="32" fill="#FFFFFF">ESTE SABADO</text>
+  <text id="slot-title" data-slot="title" x="105" y="385" data-width="760" data-height="175" data-font-size="78" font-weight="700" fill="#FFFFFF">MUSICA EN VIVO</text>
+  <text id="slot-slogan" data-slot="slogan" x="105" y="565" data-width="730" data-height="95" data-font-size="34" fill="#D8E2F4">Ven con tus amigos</text>
+  <text id="slot-price" data-slot="price" x="650" y="715" data-width="330" data-height="105" data-font-size="82" font-weight="700" fill="#18264A">$12</text>
+  <text id="slot-extra" data-slot="extra" x="105" y="870" data-width="875" data-height="110" data-font-size="30" fill="#FFFFFF">Puertas abiertas desde las 20 h</text>
+</svg>

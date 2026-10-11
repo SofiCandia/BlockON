@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img">
+  <rect id="slot-bg" data-slot="bg" data-color-role="background" width="1080" height="1080" fill="#F2F0E8"/>
+  <rect id="slot-color-primary" data-slot="color-primary" data-color-role="primary" x="610" y="0" width="470" height="1080" rx="235" fill="#A8B9A1"/>
+  <circle id="slot-color-secondary" data-slot="color-secondary" data-color-role="secondary" cx="790" cy="375" r="155" fill="#DABFA4"/>
+  <path id="slot-color-accent" data-slot="color-accent" data-color-role="accent" d="M110 680h400v16H110z" fill="#6D8170"/>
+  <image id="slot-logo" data-slot="logo" x="110" y="70" width="190" height="125" data-margin="8"/>
+  <text id="slot-occasion" data-slot="occasion" x="110" y="240" data-width="540" data-height="58" data-font-size="29" fill="#314239">NUEVA COLECCION</text>
+  <text id="slot-title" data-slot="title" x="110" y="350" data-width="760" data-height="170" data-font-size="72" font-weight="600" fill="#314239">RITUAL BOTANICO</text>
+  <text id="slot-slogan" data-slot="slogan" x="110" y="535" data-width="710" data-height="95" data-font-size="33" fill="#53665A">Cuidado simple, piel feliz</text>
+  <text id="slot-price" data-slot="price" x="110" y="790" data-width="480" data-height="110" data-font-size="76" font-weight="600" fill="#314239">$18.00</text>
+  <text id="slot-extra" data-slot="extra" x="110" y="915" data-width="750" data-height="100" data-font-size="28" fill="#53665A">Ingredientes de origen natural</text>
+</svg>

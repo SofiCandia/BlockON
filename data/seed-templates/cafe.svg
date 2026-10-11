@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" role="img">
+  <rect id="slot-bg" data-slot="bg" data-color-role="background" width="1080" height="1080" fill="#F6E8D5"/>
+  <circle id="slot-color-primary" data-slot="color-primary" data-color-role="primary" cx="865" cy="245" r="180" fill="#7B432A"/>
+  <rect id="slot-color-secondary" data-slot="color-secondary" data-color-role="secondary" x="0" y="735" width="1080" height="345" fill="#D59B58"/>
+  <path id="slot-color-accent" data-slot="color-accent" data-color-role="accent" d="M120 235h340v18H120z" fill="#B84F36"/>
+  <image id="slot-logo" data-slot="logo" x="120" y="70" width="190" height="120" data-margin="8"/>
+  <image id="slot-image" data-slot="image" x="680" y="390" width="280" height="250" data-margin="12"/>
+  <text id="slot-occasion" data-slot="occasion" x="120" y="275" data-width="500" data-height="55" data-font-size="30" fill="#3C2B22">PROMOCION</text>
+  <text id="slot-title" data-slot="title" x="120" y="365" data-width="820" data-height="155" data-font-size="82" font-weight="700" fill="#3C2B22">CAFE DEL DIA</text>
+  <text id="slot-slogan" data-slot="slogan" x="120" y="535" data-width="790" data-height="100" data-font-size="38" fill="#513D32">Un momento para ti</text>
+  <text id="slot-price" data-slot="price" x="120" y="775" data-width="470" data-height="125" data-font-size="92" font-weight="700" fill="#FFFFFF">$3.50</text>
+  <text id="slot-extra" data-slot="extra" x="120" y="930" data-width="830" data-height="80" data-font-size="30" fill="#FFFFFF">Tu pausa favorita</text>
+</svg>
