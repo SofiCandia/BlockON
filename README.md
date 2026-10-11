@@ -1,7 +1,7 @@
 # BlockON
 
 El diseñador crea una plantilla SVG. El sistema aplica automáticamente la identidad de marca del emprendedor (colores, textos y logo) mediante reglas y entrega un PNG listo para publicar.
-El pago en XLM se divide 65/35 en una transacción clásica de Stellar Testnet.
+El pago en XLM se divide en una transacción clásica de Stellar Testnet.
 
 ## Requisitos
 
